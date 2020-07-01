@@ -1,0 +1,82 @@
+.coderschool-section-format{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    height:750px;
+}
+
+.section-format{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.java{
+    font-size: 40px;
+    font-weight: bold;
+    color:#cd4541;
+}
+
+.titles{
+    padding:10px;
+    font-size:2.5rem;
+    font-weight:500;
+    text-align: center;
+}
+
+.gray-background{
+    background-color:#e9ebee;
+    height: 800px;
+}
+
+.red-text{
+    color:#cd4541;
+}
+
+.curriculum-cards{
+    display:flex;
+    flex-direction: row;
+    align-items: space-between;
+    justify-content: center;
+}
+
+.curriculum-text{
+    text-align: center!important;
+}
+
+.title-font{
+    text-align: left!important;
+}
+
+.card-font{
+    text-align: left!important;
+}
+
+.card-width{
+    width:200px;
+    margin-bottom:25px;
+    box-shadow: 0 10px 40px rgba(59, 43, 91, 0.3);
+}
+
+.learn-more{
+    background-color:#cd4541;
+}
+
+.history-section{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    height:750px;
+}
+
+.history-text{
+    font-family:inherit;
+    font-weight: 400;
+    
+    font-size:1.5rem;
+}
+
+.third {
+    background-image: url(/img/banner.jpg);
+  }
